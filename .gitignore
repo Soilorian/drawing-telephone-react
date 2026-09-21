@@ -1,0 +1,30 @@
+node_modules
+build
+tags
+*.db
+.env
+cypress/downloads
+cypress/screenshots
+cypress/videos
+
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+node_modules/
+build/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+node_modules/
+build/
+*.sqlite
+*.sqlite3
+*.db
+*.log
